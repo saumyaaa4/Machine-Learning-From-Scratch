@@ -1,5 +1,4 @@
-=========================================
-   MACHINE LEARNING ALGORITHMS (FROM SCRATCH)
+ MACHINE LEARNING ALGORITHMS (FROM SCRATCH)
 =========================================
 
 This folder contains Python implementations of popular 
